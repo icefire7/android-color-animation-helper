@@ -10,3 +10,5 @@ val colorAnimationHelper = ColorAnimationHelper(
 //interpolatedTime is float value obtained in any type of animation
 yourView.setCardBackgroundColor(colorAnimationHelper.getColor(interpolatedTime))
 ```
+Result:
+![](demo.gif)
